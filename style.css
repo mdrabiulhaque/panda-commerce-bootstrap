@@ -1,0 +1,71 @@
+
+.box-header{
+    
+    width:1116px ;
+    height:58px ;
+}
+
+.image-background-color{
+    background-color: #fceae8;
+}
+.image-background-color-header{
+    background-color: #F8F9FA;
+    padding: .5rem 1rem;
+}
+slider-img img{
+width: 100px;
+}
+.panda-btn-buy-now{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding:9px 35px;
+}
+
+    
+
+.categories-background-1{
+    background-color:#FFA500 ; 
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+ 
+ .categories-background-1 img{
+   width: 100px; 
+   
+   
+ }
+ 
+.categories-background-2{
+   background-color:#DA70D6 ; 
+   padding: 10px 30px;
+   border-radius: 10px;
+}
+.categories-background-2 img{
+    width: 100px; 
+  
+  }
+.categories-background-3{
+    background-color:#0000FF ; 
+    padding: 10px 30px;
+    border-radius: 10px;
+ }
+ .categories-background-3 img{
+    width: 100px; 
+  
+  }
+ .tex-white{
+    color: #FFFFFF; 
+    font-size: 2.5rem;
+    margin-bottom: .5rem;
+    font-weight: 500;
+    line-height: 1.2;
+
+ }
+ 
+ .fa-greater-than{
+font-size: 10px;
+ 
+ }
+ 
